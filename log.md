@@ -20,7 +20,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 2: June 27, Monday
+### Day 2: 2024-05-29 Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
