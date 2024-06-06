@@ -4,7 +4,7 @@
 
 **Today's Progress**: Today compeleted Days 12 and Day 13 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
 
 **Link(s) to work**
 1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
