@@ -7,8 +7,8 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
+2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
 
 
 
