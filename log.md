@@ -10,6 +10,8 @@
 1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
 2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
 
+[TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
+
 
 
 ### Day 1: 2024-05-28 Tuesday
