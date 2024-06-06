@@ -2,26 +2,31 @@
 
 ### Day 0: 2024-05-27 Monday (Spring Bank Holiday in UK)
 
-**Today's Progress**: Today compeleted Days 12 and Day 13 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy
+**Today's Progress**: Today compeleted Days 12 and Day 13 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy. I also got distracted perhaps by discovering [CodIngame](https://www.codingame.com/)
 
 **Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
 
 **Link(s) to work**
 1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
 2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
+3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
 
 [TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
 
 
 
 ### Day 1: 2024-05-28 Tuesday
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today compeleted Days 14 and Day 15 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy. 
 
-**Thoughts**:  I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**
+1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
+2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
+3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
+
+[TWEET](https://x.com/Zub1Wun/status/1795358565802377325)
 
 
 
