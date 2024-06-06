@@ -115,6 +115,8 @@
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
+**Notes** 1. Read Donald Knuth book "The Art of Computer Programming"
+
 **Link(s) to work**
 1. [Day 24 - Mail Merge](https://github.com/ZuIs84/100DaysOfCodePython/tree/1a842f5371e6514ac761e7b851f478292983d598/Mail%20Merge%20Project%20Start)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
