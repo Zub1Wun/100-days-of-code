@@ -10,6 +10,8 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+
+
 ### Day 1: 2024-05-28 Tuesday
 ##### (delete me or comment me out)
 
@@ -18,6 +20,7 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+
 
 
 ### Day 2: 2024-05-29 Wednesday
@@ -30,7 +33,8 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-   ### Day 2: 2024-05-30 Thursday
+
+### Day 3: 2024-05-30 Thursday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -41,7 +45,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 3: 2024-05-31 Friday
+### Day 4: 2024-05-31 Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -52,7 +56,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 4: 2024-06-01 Saturday
+### Day 5: 2024-06-01 Saturday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -63,7 +67,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 5: 2024-06-02 Sunday
+### Day 6: 2024-06-02 Sunday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -74,7 +78,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 6: 2024-06-03 Monday
+### Day 7: 2024-06-03 Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -85,7 +89,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 7: 2024-06-04 Tuesday
+### Day 8: 2024-06-04 Tuesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -96,7 +100,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 8: 2024-06-05 Wednesday
+### Day 9: 2024-06-05 Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -106,7 +110,8 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day 9: 2024-06-06 Thursday
+
+### Day 10: 2024-06-06 Thursday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
