@@ -117,6 +117,8 @@
 
 08:22 BST - Finished work learning how to manipulate squirrel data
 
+09:00 BST - Stopped work, I didn't start the final task of Day 25 which is the US States Game. So instead I just went through Days 2, 3 and 4 of the Replit 100 Days of Code challenge @ https://join.replit.com/python
+
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Notes** 1. Read Donald Knuth book "The Art of Computer Programming" - Angela says to focus on readability and make it easy for fellow coders to understand, rather than efficiency at the start.
@@ -124,4 +126,5 @@
 **Link(s) to work**
 1. [Day 24 - Mail Merge](https://github.com/ZuIs84/100DaysOfCodePython/tree/1a842f5371e6514ac761e7b851f478292983d598/Mail%20Merge%20Project%20Start)
 2. [Day 25 - Squirrell Data Manipulation with Panda](https://tinyurl.com/Day25-SquirrelData)
+3. [My Replit Profile](https://replit.com/@Zub1Wun)
 
