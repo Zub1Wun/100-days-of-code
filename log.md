@@ -124,7 +124,9 @@
 
 09:00 BST - Stopped work, I didn't start the final task of Day 25 which is the US States Game. So instead I just went through Days 2, 3 and 4 of the Replit 100 Days of Code challenge @ https://join.replit.com/python
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I am very very excited about working with Python Panda and venturing into the world of Data Science. 
+Apart from that, I realised I have not been as productive and efficiently focused on my work in recent mornings. I realised this morning that I did not take any breaks. This hampered my progress as over time I was going through things more slowly and getting stuck on things that I perhaps could have overcome better after a short break to refresh myself and have a look at my coding again with fresh eyes.
+So I intend to make sure I try to prime myself the morning before, by having a bit more of a plan on how I will spend my mornings, rather than just wake up and get started and work it out as I go along. I think I need to force myself to have 5 minute breaks after each 30min session. As well as to have a brief look over the work I am expected to do also.
 
 **Notes** 1. Read Donald Knuth book "The Art of Computer Programming" - Angela says to focus on readability and make it easy for fellow coders to understand, rather than efficiency at the start.
 
