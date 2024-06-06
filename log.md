@@ -111,10 +111,11 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 05:10 BST - I was awake in bed before 4.30am, but didn't get out until I heard the alarm. Hayfever has come down on me very hard since yesterday and plagued me since then till now. So my eyes are constantly filled with tears, my nose is runny and my breathing is hampered a little. Yet, I still get that exciting feeling when I boot up PyCharm IDE to get started.
+05:44 BST - Completed Day 24 of 100 Days of Code: The Complete Python Pro Bootcamp, by Angela Yu of AppBrewery on Udemy
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Day 24 - Mail Merge](https://github.com/ZuIs84/100DaysOfCodePython/tree/1a842f5371e6514ac761e7b851f478292983d598/Mail%20Merge%20Project%20Start)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
