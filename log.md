@@ -19,7 +19,7 @@
 
 **Today's Progress**: Today compeleted Day 14 only
  
-**Thoughts:** I am writing this in hindsight, from 2024-06-07 Friday, and I can't find my Day 15 Coffee Machine project. I know I completed it, I remember doing the work and seeing it run beautifully, yet I can't find it anywhere, on my Replit, VSCode or PyCharm.
+**Thoughts:** 
 
 **Link(s) to work**
 1. [Day 14 - Higher Lower Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2014%20Higher%20Lower%20Game)
@@ -30,13 +30,21 @@
 
 ### Day 2: 2024-05-29 Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: COMPLETED DAY 15 & DAY 16
+04:30 BST - 3rd morning now, actually had to push myself to get out of bed at 4.30am. But I’m here for another 3 hour focused deep work session programming.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+06:11 BST - and I've just finished Day 15 Coffee Machine.
+
+09:00 BST - I've been at it since 4.30AM. Got to the last bit of Day 16, which is to code the coffee machine but using #OOP
+I think I will leave it for next morning to start it afresh, and allow my mind to enter diffuse mode
+
+16:51 BST - So got on with my day after stopping work at 9am. Yet then as Professor Barbara Oakley taught us, my mind worked through the problem, so when I returned home after chores, shopping, father duties, etc. I came straight back to Day 16 OOP problem and solved it to perfection!
+
+**Thoughts** I am writing this in hindsight, from 2024-06-07 Friday, and I can't find my Day 15 Coffee Machine project. I know I completed it, I remember doing the work and seeing it run beautifully, yet I can't find it anywhere, on my Replit, VSCode or PyCharm.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Day 16 - OOP Coffee Machine](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2016%20oop-coffee-machine)
+[TWEET](https://x.com/Zub1Wun/status/1795845446881198308)
 
 
 ### Day 3: 2024-05-30 Thursday
