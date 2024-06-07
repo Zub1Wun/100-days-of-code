@@ -49,13 +49,17 @@ I think I will leave it for next morning to start it afresh, and allow my mind t
 
 ### Day 3: 2024-05-30 Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed Day 17 and half way through Day 18
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+07:17 BST - Just finished Day 17. I must say, I didn't expect it to take so long, but boy am I loving #OOP in #Python. @yu_angela managed to get me to understand OOP through doing it. Her teaching methods are by far the best I've come across!
+
+09:00 BST - Stopped halfway through Day 18 of #100DaysOfCode #AngelaYu #Udemy #Python. Being introduced to Turtle graphics, packages, modules, etc.
+
+**Thoughts** Dr Angela Yu deserves the recognition she gets, her courses on Udemy are the best and her methods are the best, to take you from beginner to being able to proudly call yourself a professional programmer. I love Object-Orientated-Programming and I am enjoying the fact that I've started working on GUI's (Graphical User Interfaces) in Python. I can't wait to go back to my older projects that are all text-based and give them all GUIs.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Day 17 - Quiz Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2017%20quiz-game)
+[TWEET](https://x.com/Zub1Wun/status/1796096934844752224)
 
 
 ### Day 4: 2024-05-31 Friday
