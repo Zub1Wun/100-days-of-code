@@ -142,3 +142,22 @@ So I intend to make sure I try to prime myself the morning before, by having a b
 2. [Day 25 - Squirrell Data Manipulation with Panda](https://tinyurl.com/Day25-SquirrelData)
 3. [My Replit Profile](https://replit.com/@Zub1Wun)
 
+### Day 11: 2024-06-07 Friday 
+
+**Today's Progress**: 
+04:00 BST woke up nice.
+04:30 BST started work on the US States Game, from Day 25 of Angela Yu's Python course on Udemy. I ensured I had a break after about 30min intervals.
+07:30 BST Completed Day 25! See links below to see work.
+
+Found out why I was not able to make executable files with pyinstaller. I ran into this when trying to make one from the update snake_game which now has a high score feature. The answer was found here : https://stackoverflow.com/questions/70227771/i-cant-use-pyinstaller. But now I have a new problem, the exe. file crashes. This could be due to file handling, which the previous snake and pong games did not have.
+
+**Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
+I realise I should look to how to extend each program that I complete during this challenge. So for instance, after completing this US States Game, I could easily create one for the oceans and continents of the world, then the same for any map I can get my hands on. I would like to create one for all the counties of UK.
+
+**Link(s) to work**
+1. [Day 25 - US States Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2025%20-%20US%20States%20Game)
+2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
+3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
+
+[TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
+
