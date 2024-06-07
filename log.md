@@ -164,6 +164,9 @@ So I intend to make sure I try to prime myself the morning before, by having a b
 
 08:38 BST Got distracted in a break. Found this cool site called [profileme.dev](https://www.profileme.dev/) from a guy called Daniel Cranney on [Twitter](https://x.com/danielcranney). I've used it for myself and you can see the results at my own [profile](https://github.com/ZuIs84). It's okay, I usually stop working at 9am. Instead, I'm going to give myself a 30mins break and then charge on for extra time into 10am to get Day 26 complete.
 
+14:55 BST LESSON 32 DAY 26 - DICTIONARY COMPREHENSION 2, this was hard! I couldn't work it out after spending ages on it, then leaving it and coming back. This one I feel was made too difficult, so I skipped ahead to see the answer. Even then it took a while for me to work out what was going on in the code. Anyway, onwards to the final task of DAY 26
+
+
 
 
 
