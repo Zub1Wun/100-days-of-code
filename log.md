@@ -17,14 +17,12 @@
 
 ### Day 1: 2024-05-28 Tuesday
 
-**Today's Progress**: Today compeleted Days 14 and Day 15 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy. 
-
-**Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
+**Today's Progress**: Today compeleted Day 14 only
+ 
+**Thoughts:** I am writing this in hindsight, from 2024-06-07 Friday, and I can't find my Day 15 Coffee Machine project. I know I completed it, I remember doing the work and seeing it run beautifully, yet I can't find it anywhere, on my Replit, VSCode or PyCharm.
 
 **Link(s) to work**
-1. [Day 12 - Integer Guessing Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2012)
-2. [Day 13 - BlackJack Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2013%20BlackJack)
-3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
+1. [Day 14 - Higher Lower Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2014%20Higher%20Lower%20Game)
 
 [TWEET](https://x.com/Zub1Wun/status/1795358565802377325)
 
