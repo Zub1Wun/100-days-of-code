@@ -145,9 +145,13 @@ So I intend to make sure I try to prime myself the morning before, by having a b
 ### Day 11: 2024-06-07 Friday 
 
 **Today's Progress**: 
+
 04:00 BST woke up nice.
+
 04:30 BST started work on the US States Game, from Day 25 of Angela Yu's Python course on Udemy. I ensured I had a break after about 30min intervals.
+
 07:30 BST Completed Day 25! See links below to see work.
+
 
 Found out why I was not able to make executable files with pyinstaller. I ran into this when trying to make one from the update snake_game which now has a high score feature. The answer was found here : https://stackoverflow.com/questions/70227771/i-cant-use-pyinstaller. But now I have a new problem, the exe. file crashes. This could be due to file handling, which the previous snake and pong games did not have.
 
