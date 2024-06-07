@@ -166,7 +166,7 @@ So I intend to make sure I try to prime myself the morning before, by having a b
 
 14:55 BST LESSON 32 DAY 26 - DICTIONARY COMPREHENSION 2, this was hard! I couldn't work it out after spending ages on it, then leaving it and coming back. This one I feel was made too difficult, so I skipped ahead to see the answer. Even then it took a while for me to work out what was going on in the code. Anyway, onwards to the final task of DAY 26
 
-
+15:02 BST - I realise now why LESSON 32 DAY 26 - DICTIONARY COMPREHENSION 2 was soo hard! There was a video explaining how to use Dicitionary Comprehension that I missed, so I'm now quite impressed with myself, as I did LESSON 31 DAY 26 - DICTIONARY COMPREHENSION 1 without watching that video.
 
 
 
@@ -177,8 +177,7 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 
 **Link(s) to work**
 1. [Day 25 - US States Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2025%20-%20US%20States%20Game)
-2. [Day 26 (https://github.com/ZuIs84/)
-3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
+2. [Day 26](https://github.com/ZuIs84/)
 
 [TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
 
