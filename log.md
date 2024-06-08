@@ -12,6 +12,7 @@
 3. [CodIngame Profile](https://www.codingame.com/profile/8e64c8f36ca4418702bbb6bff91dd56f7085906)
 
 [TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
+[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=OF53124)
 
 
 
