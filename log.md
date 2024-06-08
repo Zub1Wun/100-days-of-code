@@ -188,10 +188,13 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 
 07:00 BST - My phone was dead, so no alarm. This was the first morning I didn't jump out of bed as soon as my eyes opened. 
 
-10:48 BST - omg... this was the hardest task by far since starting. I've completed it!
+10:48 BST - omg... this was the hardest task by far since starting. I've completed it! After this, I'm taking a break, need to spend time with the family.
+
+19:30 BST - back on it, starting DAY 27, which is working with tkinter and GUIs, exciting stuff! 
 
 
 **Thoughts:** I think I burned myself out yesterday. I've also started to use a stand for my laptop, as I've been suffering excruciating back pain due to poor posture and spending hours on end on my laptop. I've only had a laptop for about a year, before which I always worked at a desk with a PC, so never really suffered from such things before.
+Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates of Silicon Valley](https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley) Basically how this Xerox lab in Palo Alto created the very first GUI, Apple stole the idea, then blamed Microsoft for stealing it from them, but Microsoft reminded them they both took it from Palo Alto.
 
 **Link(s) to work**
 1. [DAY 26 - NATO Alphabet ](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/DAY%2026%20-%20NATO-alphabet-start)
