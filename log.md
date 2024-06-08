@@ -181,3 +181,19 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 
 [TWEET](https://x.com/Zub1Wun/status/1795002179977396626)
 
+
+### Day 12: 2024-06-08 Saturday 
+
+**Today's Progress**: 
+
+07:00 BST - My phone was dead, so no alarm. This was the first morning I didn't jump out of bed as soon as my eyes opened. 
+
+
+
+
+**Thoughts:** I think I burned myself out yesterday. I've also started to use a stand for my laptop, as I've been suffering excruciating back pain due to poor posture and spending hours on end on my laptop. I've only had a laptop for about a year, before which I always worked at a desk with a PC, so never really suffered from such things before.
+
+**Link(s) to work**
+1. []()
+
+[TWEET]()
