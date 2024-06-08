@@ -192,6 +192,8 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 
 19:30 BST - back on it, starting DAY 27, which is working with tkinter and GUIs, exciting stuff! 
 
+21:41 BST - I'm right at the end of DAY 27, which is The Miles to Kilometers Converter project. I've squeezed in a lot of work today and it's late, so I am going to save this for tomorrow morning. It shouldn't take long, so I am excited what DAY 28 will bring.
+
 
 **Thoughts:** I think I burned myself out yesterday. I've also started to use a stand for my laptop, as I've been suffering excruciating back pain due to poor posture and spending hours on end on my laptop. I've only had a laptop for about a year, before which I always worked at a desk with a PC, so never really suffered from such things before.
 Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates of Silicon Valley](https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley) Basically how this Xerox lab in Palo Alto created the very first GUI, Apple stole the idea, then blamed Microsoft for stealing it from them, but Microsoft reminded them they both took it from Palo Alto.
