@@ -184,16 +184,16 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 
 ### Day 12: 2024-06-08 Saturday 
 
-**Today's Progress**: 
+**Today's Progress**: COMPLETED DAY 26 - NATO ALPHABET
 
 07:00 BST - My phone was dead, so no alarm. This was the first morning I didn't jump out of bed as soon as my eyes opened. 
 
-
+10:48 BST - omg... this was the hardest task by far since starting. I've completed it!
 
 
 **Thoughts:** I think I burned myself out yesterday. I've also started to use a stand for my laptop, as I've been suffering excruciating back pain due to poor posture and spending hours on end on my laptop. I've only had a laptop for about a year, before which I always worked at a desk with a PC, so never really suffered from such things before.
 
 **Link(s) to work**
-1. []()
+1. [DAY 26 - NATO Alphabet ](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/DAY%2026%20-%20NATO-alphabet-start)
 
 [TWEET]()
