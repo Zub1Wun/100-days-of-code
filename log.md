@@ -196,4 +196,4 @@ Found out why I was not able to make executable files with pyinstaller. I ran in
 **Link(s) to work**
 1. [DAY 26 - NATO Alphabet ](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/DAY%2026%20-%20NATO-alphabet-start)
 
-[TWEET]()
+[TWEET](https://x.com/Zub1Wun/status/1799378354677899328)
