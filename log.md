@@ -210,12 +210,13 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 08:57 BST - Had a very late night and so woke late. Today's going to be a very busy day so not sure if I will get much work done.
 
-09:22 BST - Finished DAY 27! This was way easier than Day 26.
+09:22 BST - Finished DAY 27! 
 
 
-**Thoughts:** I
+**Thoughts:** Day 27 was way easier than Day 26.
+
 **Link(s) to work**
 1. [DAY 27 - Miles to Km Converter](https://github.com/ZuIs84/100DaysOfCodePython/tree/6a2b6d6c0679365119ff91c30a9b8a61a2ccecde/Day%2027)
 
-[TWEET]()
+[TWEET](https://x.com/Zub1Wun/status/1799720243318907101)
 
