@@ -217,6 +217,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 **Link(s) to work**
 1. [DAY 27 - Miles to Km Converter](https://github.com/ZuIs84/100DaysOfCodePython/tree/6a2b6d6c0679365119ff91c30a9b8a61a2ccecde/Day%2027)
+2. [Day 27 Exe.File](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2027/dist/miles_to_km_converter.exe)
 
 [TWEET](https://x.com/Zub1Wun/status/1799720243318907101)
 
