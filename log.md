@@ -206,14 +206,16 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 ### Day 13: 2024-06-09 Sunday 
 
-**Today's Progress**: 
+**Today's Progress**: COMPLETED DAY 27 "Miles to KM Converter"
 
 08:57 BST - Had a very late night and so woke late. Today's going to be a very busy day so not sure if I will get much work done.
+
+09:22 BST - Finished DAY 27! This was way easier than Day 26.
 
 
 **Thoughts:** I
 **Link(s) to work**
-1. [DAY 27]()
+1. [DAY 27 - Miles to Km Converter](https://github.com/ZuIs84/100DaysOfCodePython/tree/6a2b6d6c0679365119ff91c30a9b8a61a2ccecde/Day%2027)
 
 [TWEET]()
 
