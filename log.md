@@ -223,7 +223,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 ### Day 14: 2024-06-10 Monday 
 
-**Today's Progress**: COMPLETED DAY 27 "Miles to KM Converter"
+**Today's Progress**: Some work, but nothing completed.
 
 14:28 BST - Working from my car remotely. Began working on old HyperionDev/CoGrammer bootcamp projects and making GUI versions of them.
 15:00 BST - had to stop and get on with day.
@@ -235,7 +235,5 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 **Thoughts:** Day 27 was way easier than Day 26.
 
 **Link(s) to work**
-1. [DAY 27 - Miles to Km Converter](https://github.com/ZuIs84/100DaysOfCodePython/tree/6a2b6d6c0679365119ff91c30a9b8a61a2ccecde/Day%2027)
-2. [Day 27 Exe.File](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2027/dist/miles_to_km_converter.exe)
-
-[TWEET](https://x.com/Zub1Wun/status/1799720243318907101)
+1. 
+[TWEET](https://x.com/Zub1Wun/)
