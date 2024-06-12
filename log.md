@@ -261,5 +261,6 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 **Link(s) to work**
 1. [Day 28](https://github.com/ZuIs84/100DaysOfCodePython/tree/6aae152c975844299c283646b7392a1338bd702e/Day%2028)
-[TWEET](https://x.com/Zub1Wun/)
 2. [Day 28 .exe file](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2028/dist/main.exe)
+
+[TWEET](https://x.com/Zub1Wun/)
