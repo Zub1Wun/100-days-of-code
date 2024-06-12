@@ -241,7 +241,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 1. 
 [TWEET](https://x.com/Zub1Wun/)
 
-### Day 14: 2024-06-11 Tuesday 
+### Day 15: 2024-06-11 Tuesday 
 
 **Today's Progress**: Some work, but nothing completed.
 
@@ -252,7 +252,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 1. 
 [TWEET](https://x.com/Zub1Wun/)
 
-### Day 14: 2024-06-12 Wednesday 
+### Day 16: 2024-06-12 Wednesday 
 
 **Today's Progress**: Completed DAy 28 - Pomodoro Timer App
 
