@@ -104,7 +104,7 @@ I think I will leave it for next morning to start it afresh, and allow my mind t
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. 
 
 
 ### Day 8: 2024-06-04 Tuesday
@@ -174,7 +174,10 @@ So I intend to make sure I try to prime myself the morning before, by having a b
 **Thoughts:** I worked fast through this and there are things to be improved on the blackjack game, however I wanted to proceed regardless as was excited to see what Day 14 had to offer.
 I realise I should look to how to extend each program that I complete during this challenge. So for instance, after completing this US States Game, I could easily create one for the oceans and continents of the world, then the same for any map I can get my hands on. I would like to create one for all the counties of UK.
 
-Found out why I was not able to make executable files with pyinstaller. I ran into this when trying to make one from the update snake_game which now has a high score feature. The answer was found here : https://stackoverflow.com/questions/70227771/i-cant-use-pyinstaller. But now I have a new problem, the exe. file crashes. This could be due to file handling, which the previous snake and pong games did not have.
+Found out why I was not able to make executable files with pyinstaller. I ran into this when trying to make one from the update snake_game which now has a high score feature. The answer was found here : [click here](https://stackoverflow.com/questions/70227771/i-cant-use-pyinstaller). "python -m PyInstaller --onefile rename.py"
+Replace rename.py with the actual name and path of your Python script. This command invokes PyInstaller as a module directly using Python, which should work even if PyInstaller's directory is not in the PATH.
+
+But now I have a new problem, the exe. file crashes. This could be due to file handling, which the previous snake and pong games did not have.
 
 **Link(s) to work**
 1. [Day 25 - US States Game](https://github.com/ZuIs84/100DaysOfCodePython/tree/main/Day%2025%20-%20US%20States%20Game)
@@ -232,8 +235,31 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 21:12 BST - I'm too exhausted. I've gotten stuch on how when I used get() to retrieve inputted values from my entry boxes, I am not able to cast them into integers or floats, without an error that tells me can't convert the strings. I hope to sleep early tonight and wake up early again so I can work to figure this out, and also start on Day 28 work.
 
 
-**Thoughts:** Day 27 was way easier than Day 26.
+**Thoughts:** 
 
 **Link(s) to work**
 1. 
 [TWEET](https://x.com/Zub1Wun/)
+
+### Day 14: 2024-06-11 Tuesday 
+
+**Today's Progress**: Some work, but nothing completed.
+
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. 
+[TWEET](https://x.com/Zub1Wun/)
+
+### Day 14: 2024-06-12 Wednesday 
+
+**Today's Progress**: Completed DAy 28 - Pomodoro Timer App
+
+
+**Thoughts:** Day 27 was way easier than Day 26.
+
+**Link(s) to work**
+1. [Day 28](https://github.com/ZuIs84/100DaysOfCodePython/tree/6aae152c975844299c283646b7392a1338bd702e/Day%2028)
+[TWEET](https://x.com/Zub1Wun/)
+2. [Day 28 .exe file](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2028/dist/main.exe)
