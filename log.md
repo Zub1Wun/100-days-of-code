@@ -264,3 +264,18 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 2. [Day 28 .exe file](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2028/dist/main.exe)
 
 [TWEET](https://x.com/Zub1Wun/status/1800982297283281329)
+
+### Day 17: 2024-06-14 Friday 
+
+**Today's Progress**: Completed DAy 29 - Password Generator App
+
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [Day 29](https://github.com/ZuIs84/100DaysOfCodePython/tree/b97d32d5c2d229048e468a563fab0310bcd72433/Day%2029)
+2. [Video](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2028/dist/main.exe)
+
+[TWEET](https://x.com/Zub1Wun/status/1800982297283281329)
+
+
