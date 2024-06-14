@@ -270,7 +270,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 **Today's Progress**: Completed DAy 29 - Password Generator App
 
 
-**Thoughts:** I've had to take care of a very unwell member of my family, hence why my pace has been hampered and I've struggled to go to bed early, sleep well and wake up at 4.30am. So to kinda make up for it, I'm trying to do an all-nighter to catch up.
+**Thoughts:** I've had to take care of a very unwell member of my family, hence why my pace has been hampered and I've struggled to go to bed early, sleep well and wake up at 4.30am. So to kinda make up for it, I'm trying to do an all-nighter to catch up. Oh and I've also been suffering for two weeks from what appears to be a rhomboid injury, an area of muscle in the middle upper back, on the right side, which gets painful whenever I use my right arm or hand for anything.
 
 **Link(s) to work**
 1. [Day 29](https://github.com/ZuIs84/100DaysOfCodePython/tree/b97d32d5c2d229048e468a563fab0310bcd72433/Day%2029)
