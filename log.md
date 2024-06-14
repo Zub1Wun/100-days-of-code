@@ -277,6 +277,6 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 2. [Day 30](https://github.com/ZuIs84/100DaysOfCodePython/tree/f323327f346e942d0a999720f2455ac7eb31db90/Day%2030)
 
 [TWEET Day29](https://x.com/Zub1Wun/status/1801444104754081872)
-[TWEET Day30]
+[TWEET Day30](https://x.com/Zub1Wun/status/1801621009386062039)
 
 
