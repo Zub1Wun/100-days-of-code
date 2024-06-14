@@ -265,7 +265,7 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 [TWEET](https://x.com/Zub1Wun/status/1800982297283281329)
 
-### Day 17: 2024-06-14 Friday 
+### Day 18: 2024-06-14 Friday 
 
 **Today's Progress**: Completed DAy 29 - Password Generator App
 
