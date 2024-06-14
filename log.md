@@ -270,12 +270,11 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 **Today's Progress**: Completed DAy 29 - Password Generator App
 
 
-**Thoughts:** 
+**Thoughts:** I've had to take care of a very unwell member of my family, hence why my pace has been hampered and I've struggled to go to bed early, sleep well and wake up at 4.30am. So to kinda make up for it, I'm trying to do an all-nighter to catch up.
 
 **Link(s) to work**
 1. [Day 29](https://github.com/ZuIs84/100DaysOfCodePython/tree/b97d32d5c2d229048e468a563fab0310bcd72433/Day%2029)
-2. [Video](https://github.com/ZuIs84/100DaysOfCodePython/blob/main/Day%2028/dist/main.exe)
 
-[TWEET](https://x.com/Zub1Wun/status/1800982297283281329)
+[TWEET](https://x.com/Zub1Wun/status/1801444104754081872)
 
 
