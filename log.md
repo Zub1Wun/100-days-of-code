@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+[LATEST ENTRY CLICK]() 
+
 ### Day 0: 2024-05-27 Monday (Spring Bank Holiday in UK)
 
 **Today's Progress**: Today compeleted Days 12 and Day 13 of "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu of AppBrewery on Udemy. I also got distracted perhaps by discovering [CodIngame](https://www.codingame.com/)
