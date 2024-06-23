@@ -294,4 +294,6 @@ This FlashCard App I will to adjust so that it clones Anki as much as possible. 
 
 
 **Link(s) to work**
+[Day 31](https://github.com/Zub1Wun/100DaysOfCodePython/tree/main/Day%2031)
+[TWEET](https://x.com/Zub1Wun/status/1804788907126526419)
 
