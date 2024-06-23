@@ -282,3 +282,13 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 [TWEET Day30](https://x.com/Zub1Wun/status/1801621009386062039)
 
 
+### Day 19: 2024-06-23 Sunday
+
+**Today's Progress**: Started Day 31 - Flash Card App
+
+
+**Thoughts:** I've realised that I need to revise using Pandas already. I had to look up how to import a csv, had to look up what dataframes are and how to convert to dictionary, and also need to revise dictionary comprehension too.
+
+
+**Link(s) to work**
+
