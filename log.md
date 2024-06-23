@@ -284,10 +284,13 @@ Angela Yu mentioned a film that I intend to watch soon sometime called [Pirates 
 
 ### Day 19: 2024-06-23 Sunday
 
-**Today's Progress**: Started Day 31 - Flash Card App
+**Today's Progress**: Completed Day 31 - Flash Card App
 
 
 **Thoughts:** I've realised that I need to revise using Pandas already. I had to look up how to import a csv, had to look up what dataframes are and how to convert to dictionary, and also need to revise dictionary comprehension too.
+Learnt about a new thing where instead of using time.sleep finction, we use a tkinter: window.after(3000, func=flip_card)
+
+This FlashCard App I will to adjust so that it clones Anki as much as possible. Then I can create my own version of Anki that ports to web and mobile.
 
 
 **Link(s) to work**
