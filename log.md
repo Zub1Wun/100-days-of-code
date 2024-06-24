@@ -305,6 +305,7 @@ This FlashCard App I will to adjust so that it clones Anki as much as possible. 
 
 
 **Thoughts:** This is soo cool, but now I guess I know how junk/spam mail works. I'm already having ideas of how to generate email lists, to email newsletters, to email my resume to prospective employers and clients etc.
+I need to do more exercices on list comprehension, dictionary comprehension and working with Pandas dataframes. This is a big weakness for me I feel and I think I need to find somewhere else to supplement my going through Angela Yu's course to remedy this deficiency 
 
 
 
