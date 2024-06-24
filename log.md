@@ -295,5 +295,23 @@ This FlashCard App I will to adjust so that it clones Anki as much as possible. 
 
 **Link(s) to work**
 [Day 31](https://github.com/Zub1Wun/100DaysOfCodePython/tree/main/Day%2031)
+
 [TWEET](https://x.com/Zub1Wun/status/1804788907126526419)
+
+
+### Day 20: 2024-06-24 Monday
+
+**Today's Progress**: Completed Day 32 - Birthday Wisher using SMTP
+
+
+**Thoughts:** This is soo cool, but now I guess I know how junk/spam mail works. I'm already having ideas of how to generate email lists, to email newsletters, to email my resume to prospective employers and clients etc.
+
+
+
+
+**Link(s) to work**
+[Day 32]()
+
+[TWEET]()
+
 
