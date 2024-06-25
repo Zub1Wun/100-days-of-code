@@ -309,13 +309,6 @@ I need to do more exercices on list comprehension, dictionary comprehension and 
 
 
 
-
-**Link(s) to work**
-[Day 32]()
-
-[TWEET]()
-
-
 ### Day 21: 2024-06-25 Tuesday
 
 **Today's Progress**: Completed Day 32 - Birthday Wisher using SMTP
@@ -331,7 +324,7 @@ I need to do more exercices on list comprehension, dictionary comprehension and 
 
 
 **Link(s) to work**
-[Day 32]()
+NOT DONE [Day 32]()
 
-[TWEET]()
+NOT DONE [TWEET]()
 
