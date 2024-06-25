@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-[LATEST ENTRY](Basic Guide to Pandas! Tricks, Shortcuts, Must Know Commands! Python for Beginners) 
+[LATEST ENTRY](https://github.com/Zub1Wun/100-days-of-code/blob/master/log.md#day-21-2024-06-25-tuesday) 
 
 ### Day 0: 2024-05-27 Monday (Spring Bank Holiday in UK)
 
