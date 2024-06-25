@@ -323,10 +323,9 @@ I need to do more exercices on list comprehension, dictionary comprehension and 
 
 **Thoughts:** Today it's 28 degrees! Here in Hampshire, England. Right, so I wasn't happy with how yesterday went, I felt unsatisfied with my lack of clarity on how dictionary comprehension works. So today I decided to find some other tutorials online focused no this. Thankfully I found Mariya Sha's tutorials which I spent today going through. You can find her on GitHub : https://github.com/MariyaSha
 
-[List Comprehension - BEST Python feature !!! Fast and Efficient](https://www.youtube.com/watch?v=SNq4C988FjU)
-
-[Dictionary Comprehension - Create Complex Data Structures Step by Step](https://www.youtube.com/watch?v=khCzymLy_QE&list=PLDSKrlZ7_IC8g_ULEUtZks8JrJkAmEjNh&index=6)
-[Basic Guide to Pandas! Tricks, Shortcuts, Must Know Commands! Python for Beginners](https://www.youtube.com/watch?v=zN2Hua6oII0&t=676s)
+[List Comprehension - BEST Python feature !!! Fast and Efficient](https://www.youtube.com/watch?v=SNq4C988FjU) 
+[Dictionary Comprehension - Create Complex Data Structures Step by Step](https://www.youtube.com/watch?v=khCzymLy_QE&list=PLDSKrlZ7_IC8g_ULEUtZks8JrJkAmEjNh&index=6) 
+[Basic Guide to Pandas! Tricks, Shortcuts, Must Know Commands! Python for Beginners](https://www.youtube.com/watch?v=zN2Hua6oII0&t=676s) 
 
 
 
