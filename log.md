@@ -311,7 +311,7 @@ I need to do more exercices on list comprehension, dictionary comprehension and 
 
 ### Day 21: 2024-06-25 Tuesday
 
-**Today's Progress**: Completed Day 32 - Birthday Wisher using SMTP
+**Today's Progress**: Completed going through Mariya Sha's videos.
 
 
 **Thoughts:** Today it's 28 degrees! Here in Hampshire, England. Right, so I wasn't happy with how yesterday went, I felt unsatisfied with my lack of clarity on how dictionary comprehension works. So today I decided to find some other tutorials online focused no this. Thankfully I found Mariya Sha's tutorials which I spent today going through. You can find her on GitHub : https://github.com/MariyaSha
