@@ -335,6 +335,7 @@ NOT DONE [TWEET]()
 
 
 **Thoughts:** Finished most of Day 34 yesterday, so wasn't much left to do to complete it this morning.
+Day 35 - I got really excited to the thought of being able to use Python to automate the sending of SMS notifications. However, not all the courses materials have been updated to reflect issues such as Twilio doesn't work exactly as how it did when the course video was first made. Though she does suggest that you can just use email notifications like we did for a previous project, however I feel cheated if I just do that. So I've been looking through for alternatives. One such is using Telegram's API to create a bot to send messages.
 
 1. [List Comprehension - BEST Python feature !!! Fast and Efficient](https://www.youtube.com/watch?v=SNq4C988FjU) 
 2. [Dictionary Comprehension - Create Complex Data Structures Step by Step](https://www.youtube.com/watch?v=khCzymLy_QE&list=PLDSKrlZ7_IC8g_ULEUtZks8JrJkAmEjNh&index=6) 
