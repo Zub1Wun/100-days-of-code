@@ -346,6 +346,6 @@ NOT DONE [TWEET]()
 **Link(s) to work**
 NOT DONE [Day 32]()
 
-NOT DONE [TWEET]()
+Day 34 [TWEET](https://x.com/Zub1Wun/status/1808366754747256897)
 
 
