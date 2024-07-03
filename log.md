@@ -344,8 +344,8 @@ NOT DONE [TWEET]()
 
 
 **Link(s) to work**
-NOT DONE [Day 32]()
+[Day 34 on my GitHub](https://github.com/Zub1Wun/100DaysOfCodePython/tree/main/Day%2034)
 
-Day 34 [TWEET](https://x.com/Zub1Wun/status/1808366754747256897)
+[Day 34 TWEET](https://x.com/Zub1Wun/status/1808366754747256897)
 
 
