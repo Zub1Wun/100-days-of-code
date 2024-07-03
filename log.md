@@ -328,3 +328,24 @@ NOT DONE [Day 32]()
 
 NOT DONE [TWEET]()
 
+
+### Day 23: 2024-07-03 Tuesday
+
+**Today's Progress**: Completed Day 34
+
+
+**Thoughts:** Finished most of Day 34 yesterday, so wasn't much left to do to complete it this morning.
+
+1. [List Comprehension - BEST Python feature !!! Fast and Efficient](https://www.youtube.com/watch?v=SNq4C988FjU) 
+2. [Dictionary Comprehension - Create Complex Data Structures Step by Step](https://www.youtube.com/watch?v=khCzymLy_QE&list=PLDSKrlZ7_IC8g_ULEUtZks8JrJkAmEjNh&index=6) 
+3. [Basic Guide to Pandas! Tricks, Shortcuts, Must Know Commands! Python for Beginners](https://www.youtube.com/watch?v=zN2Hua6oII0&t=676s) 
+
+
+
+
+**Link(s) to work**
+NOT DONE [Day 32]()
+
+NOT DONE [TWEET]()
+
+
