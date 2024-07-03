@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-[LATEST ENTRY](https://github.com/Zub1Wun/100-days-of-code/blob/master/log.md#day-21-2024-06-25-tuesday) 
+[LATEST ENTRY](https://github.com/Zub1Wun/100-days-of-code/blob/master/log.md#day-23-2024-07-03-tuesday) 
 
 ### Day 0: 2024-05-27 Monday (Spring Bank Holiday in UK)
 
