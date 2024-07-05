@@ -349,4 +349,19 @@ Day 35 - I got really excited to the thought of being able to use Python to auto
 
 [Day 34 TWEET](https://x.com/Zub1Wun/status/1808366754747256897)
 
+### Day 23: 2024-07-05 Friday
+
+**Today's Progress**: Left Angela Yu's course to return to CS50P
+
+
+**Thoughts:** I wasn't able to get the Telegram BOT API to work, which frustrated me a little. I'm thinking I've learnt now enough from Angela Yu's course to be able to return to CS50P and finish that course. There are practices that I didn't have when initially working through CS50P that I have now gained, such as using pseudo code more efficiently, planning my code and having a way of thinking through coding problems more effectively.
+
+1. []() 
+
+
+**Link(s) to work**
+[]()
+
+[]()
+
 
