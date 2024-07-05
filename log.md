@@ -351,10 +351,11 @@ Day 35 - I got really excited to the thought of being able to use Python to auto
 
 ### Day 23: 2024-07-05 Friday
 
-**Today's Progress**: Left Angela Yu's course to return to CS50P
+**Today's Progress**: Left Angela Yu's course to return to CS50P. Working 
 
 
 **Thoughts:** I wasn't able to get the Telegram BOT API to work, which frustrated me a little. I'm thinking I've learnt now enough from Angela Yu's course to be able to return to CS50P and finish that course. There are practices that I didn't have when initially working through CS50P that I have now gained, such as using pseudo code more efficiently, planning my code and having a way of thinking through coding problems more effectively.
+Working through Problem Set 4, figley.py, where we have to utilise the pyfiglet module to produce ASCI art according to user input. It's become clear how the more unclear, confusing or complicated instructions are, the more thinking is required to detangle the desired resultant code. I figure this is good training for when working with clients who are to be varied in how well or unwell they provide specifications for the program they desire to be created. Angela Yu's course used a lot of visuals to explain tasks, however this is not the case for CS50P, where you get a short textual instruction and then some examples of inputs and expected outputs to work with.
 
 1. []() 
 
