@@ -366,3 +366,10 @@ Working through Problem Set 4, figley.py, where we have to utilise the pyfiglet 
 []()
 
 
+Sun Notes
+https://youtu.be/v2k4u4k_gfg?si=qPqhxA0zXCTLlUjQ
+noel says get one good project on portfolio before applying so like a portfolio website maybe, or i guess a nice Python one from my HyperionDev, make it port to windows, on a browser and mobile.
+
+noel suggests minimum 1hr at least each day, so 6am start if miss 4.30 to get one good hour.
+
+
