@@ -367,9 +367,28 @@ Working through Problem Set 4, figley.py, where we have to utilise the pyfiglet 
 
 
 Sun Notes
-https://youtu.be/v2k4u4k_gfg?si=qPqhxA0zXCTLlUjQ
+
+
+
+
+### Day 24: 2024-07-05 Sunday
+
+**Today's Progress**: Watching through Leon Noel's 100Devs https://youtu.be/v2k4u4k_gfg?si=qPqhxA0zXCTLlUjQ
+
+
+**Thoughts:**
+
 noel says get one good project on portfolio before applying so like a portfolio website maybe, or i guess a nice Python one from my HyperionDev, make it port to windows, on a browser and mobile.
 
 noel suggests minimum 1hr at least each day, so 6am start if miss 4.30 to get one good hour.
+
+
+
+### Day 25: 2024-07-09 Tuesday
+
+**Today's Progress**: Worked through some YouTube tutorial videos on customtkinter and kivy!
+
+
+**Thoughts:** I'm yet to figure out how to actually port a python kivy program into an android apk.
 
 
